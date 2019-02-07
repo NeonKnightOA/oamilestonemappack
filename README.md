@@ -6,6 +6,8 @@ This year is the 20th. anniversary of the release of two of the most influential
 
 This mappack for OpenArena is created in order to honor both games, with a specific set of deadlines so it could be released this year, at the specified date.
 
+**This is NOT an official OpenArena project.**
+
 This pack differs from the [Quake Tribute mappack](https://github.com/NeonKnightOA/oatributemappack) in that this is only about tributes to maps from those two games.
 
 ## What maps are allowed to enter?
