@@ -40,3 +40,16 @@ All the content must be released under the [GPLv2](https://www.gnu.org/licenses/
 * The room #milestone-mappack in [the OpenArena Discord channel](https://discord.gg/f2AZGZ).
 
 We'll be using this github repository in order to store the contents for both collaborator and tester comfort.
+
+## Credits
+
+Subject to change, request to be added in Discord or the forum.
+
+* **Neon_Knight** - Coordinator, mapper
+* **carcassgr1nde3r** - Mapper
+
+### Map credits
+
+* **oampc\_q3ctf1** - Neon_Knight
+* **oampd\_oblivion** - Neon_Knight
+* **oampd\_q3tourney2** - carca55gr1nd3r
