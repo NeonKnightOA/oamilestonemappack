@@ -12,7 +12,7 @@ This pack differs from the [Quake Tribute mappack](https://github.com/NeonKnight
 
 ## What maps are allowed to enter?
 
-The list specified in [this post in the OpenArena forums](http://openarena.ws/board/index.php?topic=5449.0). WE DON'T NEED TO COVER EVERY MAP, just pick the submissions you feel you can create.
+The list specified in [this list](/docs/MapList.md). WE DON'T NEED TO COVER EVERY MAP, just pick the submissions you feel you can create.
 
 Also, while some deviations are welcome when it comes to gameplay (which should always triumph over everything else), try to stay as faithful as possible to the map's layout (for UT maps we may need to play a bit with the weapon/item placement due to the ginromous diffferences in gameplay).
 
