@@ -1,0 +1,8 @@
+{
+map		"oamspyr"
+longname	"a pyramid?"
+type		"ffa lms tourney team"
+author		"leilei"
+bots		"sorceress"
+fraglimit	"15"
+}
